@@ -1,4 +1,5 @@
 module.exports = {
+  runtimeCompiler: true,
   configureWebpack: {
     resolve: {
       alias: {
@@ -11,3 +12,5 @@ module.exports = {
     }
   }
 }
+// vue.config.js
+ 
